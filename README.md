@@ -19,7 +19,7 @@ A computer Science Postgrad (2021-24) at NIT Agartala.<br>I am a self taught Fro
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aarul14&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarul14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
