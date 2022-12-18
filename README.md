@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-Hey, <br>I am Aarul Mishra, a computer Science Postgrad (2021-24) at NIT Agartala.<br>I am a self taught Web Developer, a MERN Stack enthusiast <br>Also want to comtriute to OpenSource
+I am Aarul Mishra, a computer Science Postgrad (2021-24) at NIT Agartala.I am a self taught Frontend Developer who is currently proficient in JavaScript and is currerntly learning React.js. I am a MERN Stack enthusiast <br> I love OPENSOURCE <3
 
 
 ## 🌐 Socials:
