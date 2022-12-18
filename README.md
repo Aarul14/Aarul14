@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aarul Mishra</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 # 💫 About Me:
 Hey, <br>I am Aarul Mishra, a computer Science Postgrad (2021-24) at NIT Agartala.<br>I am a self taught Web Developer, a MERN Stack enthusiast <br>Also want to comtriute to OpenSource
