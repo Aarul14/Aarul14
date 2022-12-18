@@ -1,6 +1,8 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <h1 align="center">Hi 👋, I'm Aarul Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif "
 <p align="left">
 </p>
 
