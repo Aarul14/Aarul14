@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-A computer Science Postgrad (2021-24) at NIT Agartala.<br>I am a self taught Frontend Developer who is currently proficient in JavaScript and is currerntly learning React.js.<br> I am a MERN Stack enthusiast <br> I love OPENSOURCE ❤️
+A computer Science Postgrad (2021-24) at NIT Agartala.<br>I am a self taught Frontend Developer who is currently proficient in JavaScript and is currerntly learning React.js.<br> I am a MERN Stack enthusiast 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
