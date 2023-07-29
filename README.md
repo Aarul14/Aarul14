@@ -1,12 +1,12 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Aarul Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer </h3>
 
 <p align="left">
 </p>
 
 # 💫 About Me:
-A computer Science Postgrad (2021-24) at NIT Agartala.<br>I am a self taught Frontend Developer who is currently proficient in JavaScript and is currerntly learning React.js.<br> I am a MERN Stack enthusiast 
+A computer Science Postgrad (2021-24) at NIT Agartala.Hello there! 👋 As a passionate and determined software developer, I recently embarked on an exciting journey to learn and master the MERN (MongoDB, Express.js, React.js, Node.js) stack. This repository is a culmination of my efforts and serves as a showcase of my skills in building web applications using this powerful and popular technology stack.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
