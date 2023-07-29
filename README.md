@@ -7,7 +7,6 @@
 
 # 💫 About Me:
 A computer Science Postgrad (2021-24) at NIT Agartala. As a passionate and determined software developer, I recently embarked on an exciting journey to learn and master the MERN (MongoDB, Express.js, React.js, Node.js) stack. This repository is a culmination of my efforts and serves as a showcase of my skills in building web applications using this powerful and popular technology stack.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarul-mishra-901b24190) 
