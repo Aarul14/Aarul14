@@ -8,7 +8,7 @@
 # 💫 About Me:
 ### 👋 About Me
 
-I'm a 2024 MCA graduate from NIT Agartala, passionate about crafting efficient and scalable software solutions. As a Software Engineer at Logicsoft, I work with a variety of technologies to create seamless, secure, and user-friendly applications. I am currently deepening my skills in full-stack development, specializing in the MERN stack (MongoDB, Express.js, React, Node.js) to build dynamic web applications.
+I'm a 2024 MCA graduate from NIT Agartala, passionate about crafting efficient and scalable software solutions. As a former Software Engineer at Genpact and now at Logicsoft, I work with a variety of technologies to create seamless, secure, and user-friendly applications. I am currently deepening my skills in full-stack development, specializing in the MERN stack (MongoDB, Express.js, React, Node.js) to build dynamic web applications.
 
 ### 🔧 Tech Expertise
 
