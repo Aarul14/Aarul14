@@ -6,7 +6,28 @@
 </p>
 
 # 💫 About Me:
-A computer Science Postgrad (2021-24) at NIT Agartala. As a passionate and determined software developer, I recently embarked on an exciting journey to learn and master the MERN (MongoDB, Express.js, React.js, Node.js) stack. This repository is a culmination of my efforts and serves as a showcase of my skills in building web applications using this powerful and popular technology stack.
+### 👋 About Me
+
+I'm a 2024 MCA graduate from NIT Agartala, passionate about crafting efficient and scalable software solutions. As a Software Engineer at Logicsoft, I work with a variety of technologies to create seamless, secure, and user-friendly applications. I am currently deepening my skills in full-stack development, specializing in the MERN stack (MongoDB, Express.js, React, Node.js) to build dynamic web applications.
+
+### 🔧 Tech Expertise
+
+-   **Frontend**: React.js, React Native, JavaScript, UI/UX design
+-   **Backend**: Node.js, Express.js, REST APIs, JWT Authentication
+-   **Data & Scripting**: PostgreSQL, Puppeteer, Python, NLP
+-   **Machine Learning & NLP**: GPT-4o, FuzzyWuzzy, NLTK, PDFPlumber
+
+### 🌱 Current Focus
+
+-   Building secure, scalable applications using the MERN stack
+-   Leveraging AI for data processing and discrepancy detection
+-   Developing and enhancing user experiences through interactive and accessible design
+
+### 🚀 Projects & Accomplishments
+
+-   **JWT Access Control**: Deployed a robust, JWT-driven access control framework to secure user authentication.
+-   **Web Scraping Tool**: Created a tool to collect and process data for ChatGPT API, improving chatbot accuracy by 50%.
+-   **Discrepancy Detection Tool**: Developed a tool to resolve invoice discrepancies with 95% accuracy using machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarul-mishra-901b24190) 
