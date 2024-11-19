@@ -8,7 +8,7 @@
 # 💫 About Me:
 ### 👋 About Me
 
-I'm a 2024 MCA graduate from NIT Agartala, ! I love creating apps that are smooth, secure, scalable and easy to use.
+I am a Software Engineer by heart, I love to write HUMAN READABLE AI Code XD , secure, scalable and easy to use. Graduated as techie form NIT Agartala in 2024
 ### 🔧 Tech Expertise
 
 -   **Frontend**: React.js, React Native, JavaScript, UI/UX design
