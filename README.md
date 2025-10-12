@@ -22,11 +22,6 @@ I am a Software Engineer by heart, I love to write HUMAN READABLE AI Code XD , s
 -   Leveraging AI for data processing and discrepancy detection
 -   Developing and enhancing user experiences through interactive and accessible design
 
-### 🚀 Projects & Accomplishments
-
--   **JWT Access Control**: Deployed a robust, JWT-driven access control framework to secure user authentication.
--   **Web Scraping Tool**: Created a tool to collect and process data for ChatGPT API, improving chatbot accuracy by 50%.
--   **Discrepancy Detection Tool**: Developed a tool to resolve invoice discrepancies with 95% accuracy using machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarul-mishra-901b24190) 
